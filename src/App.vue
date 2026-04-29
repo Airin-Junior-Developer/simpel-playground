@@ -116,7 +116,7 @@ const codeExamples = [
   },
   {
     title: "สร้างตัวแปร",
-    code: `set myName to "Nathida"\nshow "Hello " + myName`
+    code: `set myName to "Simpel Code"\nshow "Hello " + myName`
   },
   {
     title: "เงื่อนไข (If-Else)",
